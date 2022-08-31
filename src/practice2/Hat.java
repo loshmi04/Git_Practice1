@@ -6,6 +6,10 @@ public class Hat {
 
     // hats can be used for sun protection or fashion
 
+    // I like baseball hats
+
+    //Hat class is completed
+
 
 
 }
